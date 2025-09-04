@@ -15,7 +15,7 @@ public class Threading {
     public void demo() {
 //        demo2();
 //        demoPercent();
-        demoRandomString();
+//        demoRandomString();
     }
 
     /*
