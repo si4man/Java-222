@@ -1,6 +1,6 @@
 package learning.itstep.java;
 
-import learning.itstep.java.newpackage.Point;
+import learning.itstep.java.newpackage.FileIO;
 /**
  *
  * @author night
@@ -13,7 +13,7 @@ public class Java222 {
      */
     public static void main(String[] args) {
 //        new Intro().demo();
-        new Point().demo();
+        new FileIO().demo();
         
     }
 }
