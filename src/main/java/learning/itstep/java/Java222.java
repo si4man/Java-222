@@ -1,6 +1,6 @@
 package learning.itstep.java;
 
-import learning.itstep.java.newpackage.FileIO;
+import learning.itstep.java.newpackage.Db;
 /**
  *
  * @author night
@@ -13,7 +13,7 @@ public class Java222 {
      */
     public static void main(String[] args) {
 //        new Intro().demo();
-        new FileIO().demo();
+        new Db().demo();
         
     }
 }
