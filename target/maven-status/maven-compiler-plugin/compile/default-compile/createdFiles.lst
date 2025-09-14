@@ -11,5 +11,7 @@ learning\itstep\java\Java222.class
 learning\itstep\java\newpackage\Threading$3.class
 learning\itstep\java\newpackage\Point.class
 learning\itstep\java\newpackage\Threading$MonthPercent.class
+learning\itstep\java\data\dto\RandomItem.class
 learning\itstep\java\newpackage\Threading$2.class
 learning\itstep\java\newpackage\Chaining$3.class
+learning\itstep\java\data\dao\RandomItemDao.class
